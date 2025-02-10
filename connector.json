@@ -11,7 +11,11 @@
   "clientSecret": null,
   "userId": null,
   "customAccountFields": [
-    {}
+    {
+      "label": null,
+      "value": null,
+      "type": null
+    }
   ],
   "domoClientId": null,
   "domoClientSecret": null,
@@ -28,7 +32,7 @@
   "reports": null,
   "advancedReports": null,
   "guid": "e5d82b8f-afa2-4734-9bf6-d82f6732ec70",
-  "authorName": null,
+  "authorName": "Test1238",
   "accesstokenMethod": null,
   "tokenAddlParams": null,
   "publishPrivate": true,
