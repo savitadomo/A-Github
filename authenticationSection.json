@@ -1,8 +1,8 @@
 {
-  "type": "none",
+  "type": "basic",
   "authCodeText": "",
-  "userName": null,
-  "password": null,
+  "userName": "****",
+  "password": "****",
   "apiKey": null,
   "clientKey": null,
   "clientSecret": null,
