@@ -1,7 +1,7 @@
 {
   "name": "A- Github Test11",
   "connectorType": "datagrid",
-  "userId": null,
+  "userId": "2111",
   "domoClientId": null,
   "domoClientSecret": null,
   "additionalInfo": null,
